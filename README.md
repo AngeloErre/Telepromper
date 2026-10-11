@@ -1,0 +1,2 @@
+# Telepromper
+Simple Python teleprompter
